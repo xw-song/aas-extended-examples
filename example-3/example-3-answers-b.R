@@ -2,7 +2,7 @@ library(nnet)
 library(MASS)
 library(effects)
 
-data_df <- read.csv("cat-opinions.csv")
+data_df <- read.csv("/Users/sarah-xiaowen/Documents/Github/oii-Other/aas-extended-examples/example-3/cat-opinions.csv")
 data_df$work_from_home <- as.logical(data_df$work_from_home)
 data_df$fifth_generation <- as.logical(data_df$fifth_generation)
 data_df$support_lockdown <- factor(data_df$support_lockdown,

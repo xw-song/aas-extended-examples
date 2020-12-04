@@ -1,0 +1,57 @@
+13:47:51	 From Olga Kotova : can you copy a link here?
+13:48:06	 From Hannah Rose Kirk : https://github.com/aezarebski/aas-extended-examples
+13:49:47	 From Jianlong Zhu : How do I install R kernel
+13:49:53	 From Hannah Rose Kirk : Wait how do we get an R kernel
+13:50:41	 From Hannah Rose Kirk : What is nix :)
+13:51:16	 From Yennie Jun : I found this https://irkernel.github.io/installation/
+13:51:33	 From galwachtel : You can install an r kernel for conda, there are clear instructions here - https://docs.anaconda.com/anaconda/navigator/tutorials/r-lang/
+13:57:34	 From Olga Kotova : no(
+13:57:38	 From Max Faschan : nope
+14:02:57	 From Olga Kotova : quick question, i have this error: Error in library(MuMIn): there is no package called ‘MuMIn’             Can anyone advice how to download this one library?
+14:03:20	 From Prathm Juneja : add install.packages("MuMIn") to a cell and run it!
+14:03:27	 From SDS MSc Course : thanks
+14:03:30	 From Olga Kotova : thanks!
+14:03:59	 From Hannah Rose Kirk : And if that doesn’t work:
+14:04:00	 From Hannah Rose Kirk : install.packages("MuMln", repos = "http://cran.us.r-project.org")
+14:04:51	 From Olga Kotova : Thank you Hannah! This line worked
+14:09:25	 From Olga Kotova : What was this software that can do cool tables?
+14:09:34	 From Hannah Rose Kirk : Table1
+14:09:37	 From Alexandra Rottenkolber : stargazer maybe?
+14:09:43	 From Hannah Rose Kirk : Is the python package for summary tables
+14:09:49	 From Hannah Rose Kirk : And stargazer for regression tables
+14:09:58	 From Hannah Rose Kirk : Table1 is such a beauty.
+14:11:08	 From Hannah Rose Kirk : http://thatdatatho.com/2018/08/20/easily-create-descriptive-summary-statistic-tables-r-studio/
+14:16:57	 From Alexandra Rottenkolber : were you able to start the R kerne in the jupyter notebook? I tried it three times and always get a „Connection failed“ error
+14:17:03	 From Alexandra Rottenkolber : When starting the Kerne
+14:17:15	 From Hannah Rose Kirk : I understand that plot - I was wondering why the grey SEs on the 2nd diagram look non-linear
+14:17:26	 From SDS MSc Course : Cool
+14:17:58	 From galwachtel : @Alexandra This will sound silly but did you restart everything? Both your Jupyter session and kernel
+14:18:29	 From Alexandra Rottenkolber : no! Ill try it! thanks Gal!
+14:28:26	 From Hannah Rose Kirk : https://cran.r-project.org/web/packages/lme4/index.html
+14:29:20	 From Hannah Rose Kirk : https://cran.r-project.org/web/packages/lme4/lme4.pdf
+14:41:19	 From Hannah Rose Kirk : Why before did you use ‘grade ~ 1 + (1 | breed)'
+14:41:26	 From Hannah Rose Kirk : And now there isn’t a ~1
+14:51:15	 From Hannah Rose Kirk : R^2 maybe?
+14:53:01	 From Olga Kotova : Can you share your screen maybe?
+14:53:06	 From Olga Kotova : If it’s not a provlem
+14:53:13	 From Olga Kotova : problem*
+14:55:09	 From Hannah Rose Kirk : This is the slide 33
+15:02:00	 From Max Faschan : Yeah, confused ^^
+15:06:28	 From Hannah Rose Kirk : Alex could you upload a new version of the slides with these little things added?
+15:06:34	 From Hannah Rose Kirk : *new version of the notebook
+15:07:23	 From SDS MSc Course : Yep, will try to find time over the weekend :(
+15:21:59	 From Mads : Do we have a shrinkage factor regarding the slope as well (i.e., moving it closer to the slope of the overall regression)?
+15:22:22	 From Mads : yes
+15:35:08	 From Kassie Scott : awwww
+15:35:09	 From Kassie Scott : thanks
+15:35:11	 From Kassie Scott : :)
+15:35:43	 From Mervyn Cheong : Thank you Adam and Alex! :)
+15:36:01	 From XW : Thanks so much, Adam and Alex! :)
+15:36:12	 From Dylan Thurgood : Thank you so much both!
+15:36:22	 From Khushboo Chougule : Thank you both!  Learned a lot.
+15:36:25	 From SDS MSc Course : You’re very welcome, best of luck with your exams
+15:36:30	 From Prathm Juneja : Thank you!
+15:36:33	 From Alexandra Rottenkolber : Thank you both for all the efforts and time!
+15:36:42	 From Daniel Kandie : Thank you Alex, we've really appreciated your explanations and all the effort you've put into the tutorials/labsAnd thank you Adam for a great course, confusing at times but overall I've enjoyed it.
+15:36:45	 From Willem Zents : Thank you!!
+15:37:15	 From Olga Kotova : I agree with Daniel completely! Thank you both so much for your effort!
